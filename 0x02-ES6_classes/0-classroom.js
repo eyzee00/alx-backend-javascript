@@ -1,7 +1,7 @@
 /**
- * Represents a classroom.
+ * Represents a class room.
  */
-export class Classroom {
+export default class ClassRoom {
   /**
    * Creates a new @see {@link ClassRoom}.
    * @param {Number} maxStudentsSize - The maximum number of
